@@ -26,5 +26,5 @@ app.use((req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`latest browsers api started at http://localhost:${port}`);
+  console.log(`latest browsers api started at http://127.0.0.1:${port}`);
 });
