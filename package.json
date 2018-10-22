@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/voronianski/latest-browsers-api#readme",
   "dependencies": {
-    "caniuse-api": "^1.5.3",
+    "caniuse-api": "^3.0.0",
     "compression": "^1.6.2",
     "cors": "^2.8.1",
     "express": "^4.15.0",
